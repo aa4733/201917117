@@ -1,0 +1,24 @@
+body, ul, li, ol, dl, dd, dt, p, h1, h2, h3, h4, h5, h6, form, fieldset, legend, img{margin:0; padding:0; border:0; list-style:none;}
+
+.footer_bg{
+	width: 100%;
+	background: url(../img/sky.jpg)no-repeat;
+	background-size: 100% 100%;
+}
+
+.footer{
+	width:1234px;
+	margin: 0px auto;
+	padding-top: 5px;
+	padding-bottom:50px;
+}
+
+
+.footer_con .pic #TE img{
+	height: 50px;
+}
+
+.footer_con_center #Winter{
+	color: black;
+}
+
