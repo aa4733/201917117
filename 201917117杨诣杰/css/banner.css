@@ -1,0 +1,26 @@
+body, ul, li, ol, dl, dd, dt, p, h1, h2, h3, h4, h5, h6, form, fieldset, legend, img{margin:0; padding:0; border:0; list-style:none;}
+
+.banner{
+	margin:30px auto 0px;
+	width: 1234px;
+	height: auto;
+	overflow: hidden;
+}
+
+.banner_pic img{
+	width: 390px;
+	height: 260px;
+}
+
+#banner_pic_left{
+	float: left;
+}
+
+#banner_pic_center{
+	margin: 0px 32px;
+	float: left;
+}
+
+#banner_pic_right{
+	float: right;
+}
